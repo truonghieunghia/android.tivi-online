@@ -1,0 +1,20 @@
+build/
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# android-studio
+.gradle
+.idea
+*.iml
+.DS_Store
+/build
+local.properties
+
+base-libs
