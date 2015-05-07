@@ -1,1 +1,3 @@
 include ':TiviOnline'
+include 'base-libs:BaseLibs'
+include 'base-libs:volley'
