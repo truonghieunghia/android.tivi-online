@@ -3,11 +3,8 @@ package groupbase.vn.thn.tivionline.activity;
 import android.content.Intent;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
-
-import java.util.ArrayDeque;
 import java.util.ArrayList;
 
 import groupbase.vn.thn.baselibs.common.ActivityCommon;
